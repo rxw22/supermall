@@ -28,7 +28,7 @@ export default {
           imgSrcActive: require("assets/img/tabbar/home_active.svg"),
           Text: "首页",
           path: '/home',
-          activeColor: "red"
+          activeColor: "deeppink"
         },
         {
           index: 1,
